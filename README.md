@@ -3,7 +3,7 @@
 ## Description
 
 This script produces a single PDF image that represents LD-blocks in a given genomic region. It shows maximum 8 blocks, and plots preferentially the blocks that have a low association p-value.
-
+![example output](example.png)
 ## Usage
 
 ```
