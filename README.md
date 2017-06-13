@@ -2,7 +2,7 @@
 
 ## Description
 
-This script produces a single PDF image that represents LD-blocks in a given genomic region. It shows maximum 8 blocks, and plots preferentially the blocks that have a low association p-value.
+This script produces a single PDF image that represents LD-blocks in a given genomic region. It shows maximum 8 blocks, and plots preferentially the blocks that have a low association p-value. The output is a Manhattan plot with each color representing a block.
 ![example output](example.png)
 ## Usage
 
